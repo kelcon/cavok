@@ -1,0 +1,7 @@
+{
+  "title": "CAVOK",
+  "main": "index.js",
+  "dependencies": {
+    "tabris": "^1.8.0"
+  }
+}
